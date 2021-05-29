@@ -1,2 +1,2 @@
 # demo
-clone demo
+clone demo kkr
